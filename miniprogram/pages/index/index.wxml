@@ -11,7 +11,7 @@
       size="default"
     ></button>
     <view class="userinfo-nickname-wrapper">
-      <button class="userinfo-nickname" bindtap="onGetOpenid">点击获取 openid</button>
+      <button class="userinfo-nickname" bindtap="onGetOpenid">点击我的第一次修改 openid</button>
     </view>
   </view>
 
